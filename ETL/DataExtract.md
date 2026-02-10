@@ -22,8 +22,7 @@ This document outlines the data extraction process for the A/B Analysis of Crowd
 
 ### Data Source
 - **Dataset:** DataMall.sg (Singapore's Land Transport Authority)
-- **Time Period:** [Your date range]
-- **Records:** [Number of records]
+
 
 ## Extraction Process
 
