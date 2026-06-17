@@ -75,11 +75,10 @@ Note: The pandas.to_sql() function will automatically create the necessary table
 ## Step 4: Set Up LTA API Access
 
 1. Visit Singapore LTA DataMall: https://datamall.lta.gov.sg/
-2. Click "Sign Up" and create an account
-3. After account verification, request API access
-4. In your application, specify your use case (e.g., research on passenger boarding behavior)
-5. LTA will verify and send you an API key via email
-6. Save this API key securely
+2. request API access
+3. In your application, specify your use case (e.g., research on passenger boarding behavior)
+4. LTA will verify and send you an API key via email
+5. Save this API key securely
 
 **Important**: Never share your API key or commit it to GitHub. Store it safely.
 
